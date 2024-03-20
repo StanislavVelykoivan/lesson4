@@ -1,0 +1,12 @@
+.currency-converter {
+    width: 400px; 
+    margin: auto;
+  }
+  
+
+  @media (max-width: 768px) {
+    .currency-converter {
+      width: 100%; 
+      padding: 0 10px; 
+    }
+  }
